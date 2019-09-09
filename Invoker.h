@@ -10,7 +10,6 @@
 class Invoker {
 public:
     static const std::string INVOKER;
-
 };
 
 #endif //CS370_HW1_INVOKER_H
